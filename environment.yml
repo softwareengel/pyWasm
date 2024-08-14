@@ -6,4 +6,4 @@ dependencies:
   - xeus-python
   - numpy
   - matplotlib
-  - xeus-sqlite  
+  - sqlite
